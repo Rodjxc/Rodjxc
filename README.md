@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am FrontEnd developer based in Oslo (originally from Spain, lived in London for 7 years) I love building beautiful and functional web applications and letting my creativity shine through code. I'm a natural problem-solver and self-learner. I also have A passionate and professional digital content creator with extensive experience in video creation, editing and live streaming. I have started my own YouTube and Twitch channel from 0 and have now built a solid follower base and engaged community and do live streams when the time allows it.
+I am FrontEnd developer based in Oslo (originally from Spain, lived in London for 7 years) I love building beautiful and functional web applications and letting my creativity shine through code. I'm a natural problem-solver and self-learner. I also have a passionate and professional digital content creator with extensive experience in video creation, editing and live streaming. I have started my own YouTube (35k+) and Twitch channel (10k+) from 0 and have built a solid follower base and engaged community and do live streams when the time allows it.
 
 Outside of my professional pursuits, I enjoy...  
 🎶 *playing music*  
@@ -25,6 +25,4 @@ Outside of my professional pursuits, I enjoy...
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
-## Achievements
 
-**Mintbean Star** - awarded for placing in the top 5% of competitors in the Mintbean Hiring Hackathon in November 2021. [See the project here](https://github.com/Adam-Thometz/8-Bit-Clan)
