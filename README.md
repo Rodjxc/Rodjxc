@@ -7,7 +7,7 @@ I am FrontEnd developer based in Oslo (originally from Spain, lived in London fo
 Outside of my professional pursuits, I enjoy...  
 🎶 *playing music*  
 🍺 *craft beer*   
-🥋 *martial arts / bjj*  
+🥋 *bjj*  
 🎮 *video games*  
 
 
