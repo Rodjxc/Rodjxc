@@ -23,6 +23,6 @@ Outside of my professional pursuits, I enjoy...
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
-![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
+
 
 
