@@ -17,12 +17,4 @@ Outside of my professional pursuits, I enjoy...
 
 ## Tech Stack
 
-### Frontend
-
-![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
-![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,ps,react,vite,bootstrap,tailwind,sass)](https://skillicons.dev)
