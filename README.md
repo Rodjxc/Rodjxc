@@ -1,4 +1,4 @@
-Const Portfolio = () => {https://rodj.dev}
+ Portfolio = ( ) => { https://rodj.dev }
 
 
 ### Internet Presence 
