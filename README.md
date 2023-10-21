@@ -1,4 +1,4 @@
-My portfolio  (Rod) => https://rodj.dev
+Const Portfolio = () => {https://rodj.dev}
 
 
 ### Internet Presence 
