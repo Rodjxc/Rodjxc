@@ -7,4 +7,4 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,ps,react,vite,bootstrap,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,ps,react,gatsby,vite,bootstrap,tailwind,sass)](https://skillicons.dev)
